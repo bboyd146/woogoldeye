@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/woogoldeye/static/css/main.f26b1c42.css",
+    "main.js": "/woogoldeye/static/js/main.d719ad69.js",
+    "static/js/787.b8b20f38.chunk.js": "/woogoldeye/static/js/787.b8b20f38.chunk.js",
+    "index.html": "/woogoldeye/index.html",
+    "main.f26b1c42.css.map": "/woogoldeye/static/css/main.f26b1c42.css.map",
+    "main.d719ad69.js.map": "/woogoldeye/static/js/main.d719ad69.js.map",
+    "787.b8b20f38.chunk.js.map": "/woogoldeye/static/js/787.b8b20f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26b1c42.css",
+    "static/js/main.d719ad69.js"
+  ]
+}
